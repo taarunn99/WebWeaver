@@ -1,5 +1,5 @@
 # WebWeaver | MERN with GenAI  
-Its is a **website that builds websites**! 🚀  
+Its a **website that builds websites**! 🚀  
 Just enter your details, and **AI (Claude LLM)** will generate a fully functional site for you. It also lets you preview and deploy your website in real time—no coding needed! 
 The aim is to be able to write production ready code and display it realtime! 
 
